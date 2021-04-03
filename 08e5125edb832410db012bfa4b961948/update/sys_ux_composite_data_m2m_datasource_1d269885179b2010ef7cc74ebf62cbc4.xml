@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">d92698857a9b2010f4d31866f2b8efc3</dataset>
+        <datasource display_value="Custom Portal Landing - Popular articles Datasource">112698856b9b2010227897a5cb8a21c4</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-04-01 20:55:35</sys_created_on>
+        <sys_id>1d269885179b2010ef7cc74ebf62cbc4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_1d269885179b2010ef7cc74ebf62cbc4</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-04-01 20:55:35</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

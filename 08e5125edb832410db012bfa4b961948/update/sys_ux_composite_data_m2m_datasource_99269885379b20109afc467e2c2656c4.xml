@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">5d269885d79b2010ce2a700c089ebfc3</dataset>
+        <datasource display_value="Custom Portal Landing - My Tasks Datasource (Task table)">51269885f59b2010f38f8c0a04a6f9c4</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-04-01 20:55:35</sys_created_on>
+        <sys_id>99269885379b20109afc467e2c2656c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_99269885379b20109afc467e2c2656c4</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-04-01 20:55:35</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

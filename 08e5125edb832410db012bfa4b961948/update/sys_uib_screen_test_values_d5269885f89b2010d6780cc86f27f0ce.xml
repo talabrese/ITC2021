@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+  "userId" : "a8f98bb0eb32010045e1a5115206fe3a"
+}</macroponent_config>
+        <screen display_value="Preferences Default">95269885099b2010ed1189d4c5312bce</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-04-01 20:55:32</sys_created_on>
+        <sys_id>d5269885f89b2010d6780cc86f27f0ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_d5269885f89b2010d6780cc86f27f0ce</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-04-01 20:55:32</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

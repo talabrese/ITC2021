@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_menu_actions</name>
+        <page display_value="">15269885ff9b20107e4939c02621f16f</page>
+        <required_translations>[{"message":"Report issue","comment":""}]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-04-01 20:55:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>992698853f9b20105482d7e30df042c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_menu_actions</sys_name>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_update_name>sys_ux_page_property_992698853f9b20105482d7e30df042c9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-04-01 20:55:35</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_602341_coding_0.15269885ff9b20107e4939c02621f16f.root.chrome_menu_actions</unique_name>
+        <value>{&#13;
+    "label": {"translatable":true, "message":"Report issue"},&#13;
+    "value": {&#13;
+  		"route":"catalog",&#13;
+       	"fields":{&#13;
+                   "sysId": "3f1dd0320a0a0b99000a53f7604a2ef9"&#13;
+		}&#13;
+	}&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</application>
+        <file_path/>
+        <instance_id>56a0b58ddb67dbc47e55d5b0cf961940</instance_id>
+        <instance_name>dev67053</instance_name>
+        <name>sys_ux_page_property_992698853f9b20105482d7e30df042c9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_menu_actions</name><page display_value="">15269885ff9b20107e4939c02621f16f</page><required_translations>[{"message":"Report issue","comment":""}]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2021-04-01 20:55:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>992698853f9b20105482d7e30df042c9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_menu_actions</sys_name><sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package><sys_policy/><sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope><sys_update_name>sys_ux_page_property_992698853f9b20105482d7e30df042c9</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2021-04-01 20:55:35</sys_updated_on><type>json</type><unique_name>x_602341_coding_0.15269885ff9b20107e4939c02621f16f.root.chrome_menu_actions</unique_name><value>{&#13;
+    "label": {"translatable":true, "message":"Report issue"},&#13;
+    "value": {&#13;
+  		"route":"catalog",&#13;
+       	"fields":{&#13;
+                   "sysId": "3f1dd0320a0a0b99000a53f7604a2ef9"&#13;
+		}&#13;
+	}&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>2066397591</payload_hash>
+        <record_name>chrome_menu_actions</record_name>
+        <reverted_from/>
+        <source>ac9fe101db032010db012bfa4b961924</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2021-03-20 17:10:30</sys_created_on>
+        <sys_id>85585409ff9b20107e4939c02621f164</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>178509deb700000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>45585409679b201067feeb1880642064</update_guid>
+        <update_guid_history>45585409679b201067feeb1880642064:2066397591</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 21:05:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>2efe49d91b5c431a9988554651c8ec09</sys_id>
+        <sys_metadata>992698853f9b20105482d7e30df042c9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_menu_actions</sys_name>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_scope_delete display_value="">0335c34969f24460802779f62ae72400</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_992698853f9b20105482d7e30df042c9</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_992698853f9b20105482d7e30df042c9">85585409ff9b20107e4939c02621f164</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 21:05:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

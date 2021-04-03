@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="Homepage Config">199edd97db032010db012bfa4b9619d1</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Workspace notification">2683731bb7fa5010fddc6c91de11a93c</macroponent>
+        <macroponent_config/>
+        <name>test</name>
+        <order>200</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Article page">ad9e11d7040320100a34f256c77bef20</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-27 16:09:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>9cd4a9dbdb032010db012bfa4b96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_update_name>sys_ux_screen_9cd4a9dbdb032010db012bfa4b96199e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-27 16:09:51</sys_updated_on>
+    </sys_ux_screen>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</application>
+        <file_path/>
+        <instance_id>56a0b58ddb67dbc47e55d5b0cf961940</instance_id>
+        <instance_name>dev67053</instance_name>
+        <name>sys_ux_screen_9cd4a9dbdb032010db012bfa4b96199e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="Homepage Config">199edd97db032010db012bfa4b9619d1</app_config><description/><event_mappings/><macroponent display_value="Workspace notification">2683731bb7fa5010fddc6c91de11a93c</macroponent><macroponent_config/><name>test</name><order>200</order><parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent><required_translations>[]</required_translations><screen_condition/><screen_type display_value="Article page">ad9e11d7040320100a34f256c77bef20</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-27 16:09:51</sys_created_on><sys_domain>global</sys_domain><sys_id>9cd4a9dbdb032010db012bfa4b96199e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>test</sys_name><sys_overrides/><sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package><sys_policy/><sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope><sys_update_name>sys_ux_screen_9cd4a9dbdb032010db012bfa4b96199e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-27 16:09:51</sys_updated_on></sys_ux_screen></record_update>]]></payload>
+        <payload_hash>-629015564</payload_hash>
+        <record_name>test</record_name>
+        <reverted_from/>
+        <source>4ce5125edb832410db012bfa4b96194a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-27 16:09:51</sys_created_on>
+        <sys_id>dcd4a9dbdb032010db012bfa4b9619a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1787472eb6f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-27 16:09:51</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>18d4a9db8a032010167946f48e7f66a0</update_guid>
+        <update_guid_history>18d4a9db8a032010167946f48e7f66a0:-629015564</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-27 16:10:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>c7df71f75d49489992a9148c6933b831</sys_id>
+        <sys_metadata>9cd4a9dbdb032010db012bfa4b96199e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_scope_delete display_value="">0335c34969f24460802779f62ae72400</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_9cd4a9dbdb032010db012bfa4b96199e</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_9cd4a9dbdb032010db012bfa4b96199e">dcd4a9dbdb032010db012bfa4b9619a0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-27 16:10:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

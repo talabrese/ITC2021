@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>The Safety Manager is in charge of ensuring the security and safety of the work environment. They set the percentage of unvaccinated employees allowed at any facility. They are also in charge of setting reservations to campuses for specific days for specific employees</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_602341_coding_0.Safety Manager</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>Safety Manager</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 20:42:34</sys_created_on>
+        <sys_id>7b235405ff9b20107e4939c02621f1c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_602341_coding_0.Safety Manager</sys_name>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_update_name>sys_user_role_7b235405ff9b20107e4939c02621f1c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 20:42:34</sys_updated_on>
+    </sys_user_role>
+</record_update>

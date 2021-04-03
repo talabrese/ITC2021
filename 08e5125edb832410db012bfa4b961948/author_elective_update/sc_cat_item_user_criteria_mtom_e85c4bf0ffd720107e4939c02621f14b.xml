@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Submit Results">88db83f0ffd720107e4939c02621f1df</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 15:32:57</sys_created_on>
+        <sys_id>e85c4bf0ffd720107e4939c02621f14b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit Results.Any User</sys_name>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_e85c4bf0ffd720107e4939c02621f14b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 15:32:57</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</application>
+        <file_path/>
+        <instance_id>56a0b58ddb67dbc47e55d5b0cf961940</instance_id>
+        <instance_name>dev67053</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_e85c4bf0ffd720107e4939c02621f14b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Submit Results">88db83f0ffd720107e4939c02621f1df</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-01 15:32:57</sys_created_on><sys_id>e85c4bf0ffd720107e4939c02621f14b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Submit Results.Any User</sys_name><sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package><sys_policy/><sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_e85c4bf0ffd720107e4939c02621f14b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-01 15:32:57</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>1725396777</payload_hash>
+        <record_name>Submit Results.Any User</record_name>
+        <reverted_from/>
+        <source>4ce5125edb832410db012bfa4b96194a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 15:32:58</sys_created_on>
+        <sys_id>685c4bf0ffd720107e4939c02621f14f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1788e10f0230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 15:32:58</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>ec5c4bf0a7d72010be7b70cff6478f4e</update_guid>
+        <update_guid_history>ec5c4bf0a7d72010be7b70cff6478f4e:1725396777</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Submit Results.Any User">3d5c4bf0ffd720107e4939c02621f1b0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 15:33:02</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>6621eca7b3264c209a4cbfaba3bc1900</sys_id>
+        <sys_metadata>e85c4bf0ffd720107e4939c02621f14b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit Results.Any User</sys_name>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_parent display_value="">88db83f0ffd720107e4939c02621f1df</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_scope_delete display_value="">0335c34969f24460802779f62ae72400</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_e85c4bf0ffd720107e4939c02621f14b</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_e85c4bf0ffd720107e4939c02621f14b">685c4bf0ffd720107e4939c02621f14f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 15:33:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

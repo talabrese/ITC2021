@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">1af3c5706c532010e0fdb00f7de8fd85</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">12f3c570c7532010ecd869fae2c6ee96</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-04-01 05:37:18</sys_created_on>
+        <sys_id>16f3c5702b532010a6a25a0d0d636985</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_16f3c5702b532010a6a25a0d0d636985</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-04-01 05:37:18</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

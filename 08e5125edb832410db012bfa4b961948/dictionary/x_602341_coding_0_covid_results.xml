@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Covid Results " max_length="40" name="x_602341_coding_0_covid_results" sizeclass="0" type="collection">
+        <element label="Date of Test" max_length="40" name="date_of_test" type="glide_date"/>
+        <element label="Employee ID" max_length="40" name="employee_id" type="integer"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Test Results" max_length="40" name="test_results" type="boolean"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

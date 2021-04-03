@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <includes/>
+        <macroponent display_value="Article page">219e11d70903201024af602f33ea9d23</macroponent>
+        <name>Submit Results</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({api, event, helpers, imports, GlideRecord}) {
+    var gr = new GlideRecord('covid_results');
+    gr.newRecord();
+    gr.employee_id = "000000";
+    gr.date_of_test = "05-09-1999";
+    gr.test_results = api.state.passFail;
+    gr.insert();
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-30 06:46:24</sys_created_on>
+        <sys_id>04a0cbccff1320107e4939c02621f14a</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Submit Results</sys_name>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_update_name>sys_ux_client_script_04a0cbccff1320107e4939c02621f14a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 05:58:14</sys_updated_on>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</application>
+        <file_path/>
+        <instance_id>56a0b58ddb67dbc47e55d5b0cf961940</instance_id>
+        <instance_name>dev67053</instance_name>
+        <name>sys_ux_client_script_04a0cbccff1320107e4939c02621f14a</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="Article page"&gt;219e11d70903201024af602f33ea9d23&lt;/macroponent&gt;&lt;name&gt;Submit Results&lt;/name&gt;&lt;required_translations&gt;[ ]&lt;/required_translations&gt;&lt;script&gt;&lt;![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({api, event, helpers, imports, GlideRecord}) {
+    var gr = new GlideRecord('covid_results');
+    gr.newRecord();
+    gr.employee_id = "000000";
+    gr.date_of_test = "05-09-1999";
+    gr.test_results = api.state.passFail;
+    gr.insert();
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-03-30 06:46:24&lt;/sys_created_on&gt;&lt;sys_id&gt;04a0cbccff1320107e4939c02621f14a&lt;/sys_id&gt;&lt;sys_mod_count&gt;7&lt;/sys_mod_count&gt;&lt;sys_name&gt;Submit Results&lt;/sys_name&gt;&lt;sys_package display_value="Coding Coyotes" source="x_602341_coding_0"&gt;08e5125edb832410db012bfa4b961948&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Coding Coyotes"&gt;08e5125edb832410db012bfa4b961948&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_04a0cbccff1320107e4939c02621f14a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-04-01 05:58:14&lt;/sys_updated_on&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1700406976</payload_hash>
+        <record_name>Submit Results</record_name>
+        <reverted_from/>
+        <source>4ce5125edb832410db012bfa4b96194a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 05:58:15</sys_created_on>
+        <sys_id>4ac8c574ff5320107e4939c02621f1ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1788c02c56f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 05:58:15</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>42c8c57436532010b98e95c6bbe7aeac</update_guid>
+        <update_guid_history>42c8c57436532010b98e95c6bbe7aeac:-1700406976,2847c1341f532010bde8114e7d6008d2:1507206403,223181fce3132010395c87041765a1df:-670069550,ec1dfcb803132010aee790b4aa6735f2:584200213,5f59f7907953201089ef81b02a192758:1528307480,b9564f043c53201086a87a016c1ef226:-1177785300,4b91474055532010df5f2c0d328220aa:1336343801,48a0cbcce8132010e1f0b06201b73e4d:-687149906</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 06:01:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>c38bc8fa29524902b3c551e584a5bb44</sys_id>
+        <sys_metadata>04a0cbccff1320107e4939c02621f14a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit Results</sys_name>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_scope_delete display_value="">0335c34969f24460802779f62ae72400</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_04a0cbccff1320107e4939c02621f14a</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_04a0cbccff1320107e4939c02621f14a">4ac8c574ff5320107e4939c02621f1ac</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 06:01:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

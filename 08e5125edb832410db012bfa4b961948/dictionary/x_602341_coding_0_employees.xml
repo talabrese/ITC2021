@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Employees" max_length="40" name="x_602341_coding_0_employees" sizeclass="2" type="collection">
+        <element label="Address" max_length="255" name="address" type="string_full_utf8"/>
+        <element label="Employee ID" max_length="40" name="employee_id" type="integer"/>
+        <element label="First Name" max_length="40" name="first_name" type="string"/>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element label="Salary" max_length="40" name="salary" type="float"/>
+    </element>
+</database>

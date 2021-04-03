@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="a99e11d7e30320107c3dbb6cdf8ab131" sys_domain="global" table="sys_user" version="3" view="custom_portal_settings_x_602341_coding_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2021-03-27 15:42:41</sys_created_on>
+            <sys_id>2d9e11d78d0320107c41b4edb34d8d31</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="e99e11d7ae0320106b2451e52ce44e31">a99e11d7e30320107c3dbb6cdf8ab131</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2021-03-27 15:42:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2021-03-27 15:42:41</sys_created_on>
+            <sys_id>6d9e11d765032010c5bd5d3a3a728131</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="e99e11d7ae0320106b2451e52ce44e31">a99e11d7e30320107c3dbb6cdf8ab131</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2021-03-27 15:42:41</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>2</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2021-03-27 15:42:41</sys_created_on>
+            <sys_id>ad9e11d730032010628d2a5ab4fbf131</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="e99e11d7ae0320106b2451e52ce44e31">a99e11d7e30320107c3dbb6cdf8ab131</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2021-03-27 15:42:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2021-03-27 15:42:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a99e11d7e30320107c3dbb6cdf8ab131</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+            <sys_update_name>sys_ui_section_a99e11d7e30320107c3dbb6cdf8ab131</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2021-03-27 15:42:41</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal settings (x_602341_coding_0 )" name="custom_portal_settings_x_602341_coding_0">e99e11d7ae0320106b2451e52ce44e31</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

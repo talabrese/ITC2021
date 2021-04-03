@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_602341_coding_0.employees_user" name="x_602341_coding_0.employees_user">85ff2d93db432010db012bfa4b96199f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>jordan.burton</sys_created_by>
+        <sys_created_on>2021-03-27 16:58:31</sys_created_on>
+        <sys_id>49ff2d93db432010db012bfa4b9619a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>85ff2d93db432010db012bfa4b96199f</sys_name>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_update_name>sys_embedded_help_role_49ff2d93db432010db012bfa4b9619a2</sys_update_name>
+        <sys_updated_by>jordan.burton</sys_updated_by>
+        <sys_updated_on>2021-03-27 16:58:31</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

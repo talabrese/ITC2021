@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="covid_results">f82b6113db432010db012bfa4b961915</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>covid_results</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_602341_coding_0_covid_results</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_602341_coding_0.covid_results_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>jordan.burton</sys_created_by>
+        <sys_created_on>2021-03-27 16:37:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>342b6113db432010db012bfa4b961919</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Covid Results s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_update_name>sys_app_module_342b6113db432010db012bfa4b961919</sys_update_name>
+        <sys_updated_by>jordan.burton</sys_updated_by>
+        <sys_updated_on>2021-03-27 17:14:36</sys_updated_on>
+        <timeline_page/>
+        <title>Covid Results s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

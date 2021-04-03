@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Catalog Item page - Related Items dataset">96f3c570d353201060aabab6fa6caf8b</dataset>
+        <order/>
+        <predicate_bundle display_value="Custom portal - Related items">daf3c570d7532010364b53573f62e08c</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-04-01 05:37:17</sys_created_on>
+        <sys_id>9af3c57052532010a71cd1d999ac3d8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_9af3c57052532010a71cd1d999ac3d8c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-04-01 05:37:17</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

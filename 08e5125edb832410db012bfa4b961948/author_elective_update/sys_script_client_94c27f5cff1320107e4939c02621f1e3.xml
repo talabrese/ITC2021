@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>sys_created_on</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>CreateResultsRecord</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+   //Type appropriate comment here, and begin script below
+	var gr = new GlideRecord('covid_results');
+	gr.initialize();
+	gr.employee_ID = api.state.employeeID;
+	gr.insert();
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-31 05:09:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>94c27f5cff1320107e4939c02621f1e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CreateResultsRecord</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_update_name>sys_script_client_94c27f5cff1320107e4939c02621f1e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-31 05:09:30</sys_updated_on>
+        <table>x_602341_coding_0_covid_results</table>
+        <type>onSubmit</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</application>
+        <file_path/>
+        <instance_id>56a0b58ddb67dbc47e55d5b0cf961940</instance_id>
+        <instance_name>dev67053</instance_name>
+        <name>sys_script_client_94c27f5cff1320107e4939c02621f1e3</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;sys_created_on&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;CreateResultsRecord&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onSubmit() {
+   //Type appropriate comment here, and begin script below
+	var gr = new GlideRecord('covid_results');
+	gr.initialize();
+	gr.employee_ID = api.state.employeeID;
+	gr.insert();
+   
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-03-31 05:09:30&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;94c27f5cff1320107e4939c02621f1e3&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;CreateResultsRecord&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Coding Coyotes" source="x_602341_coding_0"&gt;08e5125edb832410db012bfa4b961948&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Coding Coyotes"&gt;08e5125edb832410db012bfa4b961948&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_94c27f5cff1320107e4939c02621f1e3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-03-31 05:09:30&lt;/sys_updated_on&gt;&lt;table&gt;x_602341_coding_0_covid_results&lt;/table&gt;&lt;type&gt;onSubmit&lt;/type&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1309696104</payload_hash>
+        <record_name>CreateResultsRecord</record_name>
+        <reverted_from/>
+        <source>4ce5125edb832410db012bfa4b96194a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-31 05:09:30</sys_created_on>
+        <sys_id>8204fb9cff1320107e4939c02621f17f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17886afc9e60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-31 05:09:30</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>ca04fb9cb7132010520e8a6ec6be477e</update_guid>
+        <update_guid_history>ca04fb9cb7132010520e8a6ec6be477e:1309696104</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 16:42:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>1158c3badbe74963933a47f51b8c5ad9</sys_id>
+        <sys_metadata>94c27f5cff1320107e4939c02621f1e3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CreateResultsRecord</sys_name>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_parent display_value="Covid Results ">2beaaddfdb032010db012bfa4b96196f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_scope_delete display_value="">0335c34969f24460802779f62ae72400</sys_scope_delete>
+        <sys_update_name>sys_script_client_94c27f5cff1320107e4939c02621f1e3</sys_update_name>
+        <sys_update_version display_value="sys_script_client_94c27f5cff1320107e4939c02621f1e3">8204fb9cff1320107e4939c02621f17f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 16:42:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

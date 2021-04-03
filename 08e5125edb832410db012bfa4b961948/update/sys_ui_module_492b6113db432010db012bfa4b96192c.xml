@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="covid_results">492b6113db432010db012bfa4b961929</application>
+        <filter/>
+        <name>covid_results</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_602341_coding_0.covid_results_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>jordan.burton</sys_created_by>
+        <sys_created_on>2021-03-27 16:37:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>492b6113db432010db012bfa4b96192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>covid_results</sys_name>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_update_name>sys_ui_module_492b6113db432010db012bfa4b96192c</sys_update_name>
+        <sys_updated_by>jordan.burton</sys_updated_by>
+        <sys_updated_on>2021-03-27 16:37:28</sys_updated_on>
+        <table>x_602341_coding_0_covid_results</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

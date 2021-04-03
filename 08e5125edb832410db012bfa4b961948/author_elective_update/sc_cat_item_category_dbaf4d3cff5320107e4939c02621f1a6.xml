@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Submit Covid Results">525fc13cff5320107e4939c02621f1c0</sc_cat_item>
+        <sc_category display_value="Things you can request">f20dba11f9542010fa9b7f43378be374</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 06:28:23</sys_created_on>
+        <sys_id>dbaf4d3cff5320107e4939c02621f1a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Things you can request.Submit Covid Results</sys_name>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_update_name>sc_cat_item_category_dbaf4d3cff5320107e4939c02621f1a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 06:28:23</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</application>
+        <file_path/>
+        <instance_id>56a0b58ddb67dbc47e55d5b0cf961940</instance_id>
+        <instance_name>dev67053</instance_name>
+        <name>sc_cat_item_category_dbaf4d3cff5320107e4939c02621f1a6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Submit Covid Results">525fc13cff5320107e4939c02621f1c0</sc_cat_item><sc_category display_value="Things you can request">f20dba11f9542010fa9b7f43378be374</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-01 06:28:23</sys_created_on><sys_id>dbaf4d3cff5320107e4939c02621f1a6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Things you can request.Submit Covid Results</sys_name><sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package><sys_policy/><sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope><sys_update_name>sc_cat_item_category_dbaf4d3cff5320107e4939c02621f1a6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-01 06:28:23</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>956156866</payload_hash>
+        <record_name>Things you can request.Submit Covid Results</record_name>
+        <reverted_from/>
+        <source>4ce5125edb832410db012bfa4b96194a</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 06:28:23</sys_created_on>
+        <sys_id>93af4d3cff5320107e4939c02621f1aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1788c1e5c920000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 06:28:23</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>1baf4d3c675320103c026e08af739ba9</update_guid>
+        <update_guid_history>1baf4d3c675320103c026e08af739ba9:956156866</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Things you can request.Submit Covid Results">fb50d1bcff5320107e4939c02621f1a0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-04-01 06:31:25</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>a24e1f685f2943088d2b832f4b08e790</sys_id>
+        <sys_metadata>dbaf4d3cff5320107e4939c02621f1a6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Things you can request.Submit Covid Results</sys_name>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_scope_delete display_value="">0335c34969f24460802779f62ae72400</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_dbaf4d3cff5320107e4939c02621f1a6</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_dbaf4d3cff5320107e4939c02621f1a6">93af4d3cff5320107e4939c02621f1aa</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-04-01 06:31:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

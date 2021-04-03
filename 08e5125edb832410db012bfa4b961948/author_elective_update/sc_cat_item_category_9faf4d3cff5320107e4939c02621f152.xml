@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Submit Covid Results">525fc13cff5320107e4939c02621f1c0</sc_cat_item>
+        <sc_category display_value="Personal Protective Equipment (PPE)">80d4b78b21201010fa9b0319ff1c237f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 06:28:22</sys_created_on>
+        <sys_id>9faf4d3cff5320107e4939c02621f152</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Personal Protective Equipment (PPE).Submit Covid Results</sys_name>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_update_name>sc_cat_item_category_9faf4d3cff5320107e4939c02621f152</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 06:28:22</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</application>
+        <file_path/>
+        <instance_id>56a0b58ddb67dbc47e55d5b0cf961940</instance_id>
+        <instance_name>dev67053</instance_name>
+        <name>sc_cat_item_category_9faf4d3cff5320107e4939c02621f152</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Submit Covid Results">525fc13cff5320107e4939c02621f1c0</sc_cat_item><sc_category display_value="Personal Protective Equipment (PPE)">80d4b78b21201010fa9b0319ff1c237f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-01 06:28:22</sys_created_on><sys_id>9faf4d3cff5320107e4939c02621f152</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Personal Protective Equipment (PPE).Submit Covid Results</sys_name><sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package><sys_policy/><sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope><sys_update_name>sc_cat_item_category_9faf4d3cff5320107e4939c02621f152</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-01 06:28:22</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>642201532</payload_hash>
+        <record_name>Personal Protective Equipment (PPE).Submit Covid Results</record_name>
+        <reverted_from/>
+        <source>4ce5125edb832410db012bfa4b96194a</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 06:28:22</sys_created_on>
+        <sys_id>57af4d3cff5320107e4939c02621f156</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1788c1e59560000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 06:28:22</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>dbaf4d3c69532010e0f4adcc862e0155</update_guid>
+        <update_guid_history>dbaf4d3c69532010e0f4adcc862e0155:642201532</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Personal Protective Equipment (PPE).Submit Covid Results">7350d1bcff5320107e4939c02621f159</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-04-01 06:31:25</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>21bdcd1a24b24940b8980d80a5ea2400</sys_id>
+        <sys_metadata>9faf4d3cff5320107e4939c02621f152</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Personal Protective Equipment (PPE).Submit Covid Results</sys_name>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_scope_delete display_value="">0335c34969f24460802779f62ae72400</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_9faf4d3cff5320107e4939c02621f152</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_9faf4d3cff5320107e4939c02621f152">57af4d3cff5320107e4939c02621f156</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-04-01 06:31:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

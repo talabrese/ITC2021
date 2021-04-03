@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Covid Results">dbef457cff5320107e4939c02621f1aa</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 06:29:40</sys_created_on>
+        <sys_id>daffc17cff5320107e4939c02621f15f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Covid Results.catalog_covid_results</sys_name>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_covid_results">92ffc17cff5320107e4939c02621f15e</sys_portal_page>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_daffc17cff5320107e4939c02621f15f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 06:29:40</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>
