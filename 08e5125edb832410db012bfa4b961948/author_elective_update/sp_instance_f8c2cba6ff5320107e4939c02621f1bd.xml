@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">e4c24fa6ff5320107e4939c02621f171</sp_column>
+        <sp_widget display_value="Safe Workplace Dashboard Covid Graph">44e900d04c2c4798923976f4c14bd4e7</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-07 01:20:34</sys_created_on>
+        <sys_id>f8c2cba6ff5320107e4939c02621f1bd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_update_name>sp_instance_f8c2cba6ff5320107e4939c02621f1bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-07 01:21:48</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"pa_uuid": {
+		"value": "394dedf75f1444f1914f42371082e103",
+		"displayValue": "% of Employees That Want To Return To Work"
+	},
+	"secondary_pa_indicator": {
+		"value": "44ea5a88c86440959e084473a18e436d",
+		"displayValue": "Number of Employees Not Ready to Return"
+	},
+	"state_breakdown": {
+		"value": "79a2f437d7000200b96d45a3ce61031c",
+		"displayValue": "Urgency"
+	},
+	"chart_type": {
+		"value": "single",
+		"displayValue": "single"
+	},
+	"country_breakdown": {
+		"value": "",
+		"displayValue": ""
+	},
+	"only_show_until_yesterday": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=f8c2cba6ff5320107e4939c02621f1bd"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</application>
+        <file_path/>
+        <instance_id>56a0b58ddb67dbc47e55d5b0cf961940</instance_id>
+        <instance_name>dev67053</instance_name>
+        <name>sp_instance_f8c2cba6ff5320107e4939c02621f1bd</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;e4c24fa6ff5320107e4939c02621f171&lt;/sp_column&gt;&lt;sp_widget display_value="Safe Workplace Dashboard Covid Graph"&gt;44e900d04c2c4798923976f4c14bd4e7&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-04-07 01:20:34&lt;/sys_created_on&gt;&lt;sys_id&gt;f8c2cba6ff5320107e4939c02621f1bd&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Coding Coyotes" source="x_602341_coding_0"&gt;08e5125edb832410db012bfa4b961948&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Coding Coyotes"&gt;08e5125edb832410db012bfa4b961948&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_f8c2cba6ff5320107e4939c02621f1bd&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-04-07 01:21:48&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"pa_uuid": {
+		"value": "394dedf75f1444f1914f42371082e103",
+		"displayValue": "% of Employees That Want To Return To Work"
+	},
+	"secondary_pa_indicator": {
+		"value": "44ea5a88c86440959e084473a18e436d",
+		"displayValue": "Number of Employees Not Ready to Return"
+	},
+	"state_breakdown": {
+		"value": "79a2f437d7000200b96d45a3ce61031c",
+		"displayValue": "Urgency"
+	},
+	"chart_type": {
+		"value": "single",
+		"displayValue": "single"
+	},
+	"country_breakdown": {
+		"value": "",
+		"displayValue": ""
+	},
+	"only_show_until_yesterday": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=f8c2cba6ff5320107e4939c02621f1bd"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1245273113</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>234f7965ffdb20107e4939c02621f16a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-07 01:21:48</sys_created_on>
+        <sys_id>7e0383e6ff5320107e4939c02621f112</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178a9ebd5da0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-07 01:21:48</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>760383e662532010fbebf6a0e5ceac12</update_guid>
+        <update_guid_history>760383e662532010fbebf6a0e5ceac12:-1245273113,f4c2cba6845320108319a881efa088bf:1371565137</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">f70387a6ff5320107e4939c02621f1e9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-07 01:21:52</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>24bfd33d991c45efa1f0e580d73991c1</sys_id>
+        <sys_metadata>f8c2cba6ff5320107e4939c02621f1bd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_scope_delete display_value="">0335c34969f24460802779f62ae72400</sys_scope_delete>
+        <sys_update_name>sp_instance_f8c2cba6ff5320107e4939c02621f1bd</sys_update_name>
+        <sys_update_version display_value="sp_instance_f8c2cba6ff5320107e4939c02621f1bd">7e0383e6ff5320107e4939c02621f112</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-07 01:21:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
