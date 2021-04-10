@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_status_of_content">
+    <gsw_status_of_content action="INSERT_OR_UPDATE">
+        <best_practice_allowed_ever>0</best_practice_allowed_ever>
+        <checksum>TMzK72bbNPaQYSHaEBBEpAYcSTg=</checksum>
+        <content display_value="Safe Workplace Guided Setup">154c8a34dbad501061f95c55dc9619fb</content>
+        <effective_weight>1</effective_weight>
+        <more_info_visited>false</more_info_visited>
+        <previous_status>0</previous_status>
+        <progress>0</progress>
+        <related_log_entry display_value="2021-04-06 17:46:41">d80bf2aaff1320107e4939c02621f1c0</related_log_entry>
+        <status>0</status>
+        <sys_class_name>gsw_status_of_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-07 00:46:30</sys_created_on>
+        <sys_id>fdfafa6aff1320107e4939c02621f13f</sys_id>
+        <sys_mod_count>55</sys_mod_count>
+        <sys_name>0</sys_name>
+        <sys_package display_value="Coding Coyotes" source="x_602341_coding_0">08e5125edb832410db012bfa4b961948</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coding Coyotes">08e5125edb832410db012bfa4b961948</sys_scope>
+        <sys_update_name>gsw_status_of_content_fdfafa6aff1320107e4939c02621f13f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-07 00:46:41</sys_updated_on>
+    </gsw_status_of_content>
+</record_update>
